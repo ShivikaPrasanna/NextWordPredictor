@@ -1,6 +1,4 @@
 /*
- * Name: Shivika Prasanna
- * Net ID: sxp162630
  * Project: Next Word Predictor using N-grams: Allow user to enter a word
  * 			and predict a set of possible next words using Add one smoothing and Good Turing methods
  * 
